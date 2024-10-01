@@ -1,0 +1,32 @@
+1) Is Bitcoin same as Blockchain?
+
+A) True
+B) False
+
+2) ____ is an example of Blockchain Technologies.
+
+A) Private OR Public
+B) Ethereum OR Hyperledger Fabric
+C) None of the above
+
+3) Who invented Bitcoin?
+
+A) Nick Sabo
+B) Satoshi Nakamoto
+C) Will Smith
+
+4) Whcih is the native currency of Ethereum?
+
+A) Bitcoin (BTC)
+B) Ether (ETH)
+C) Litecoin (LTH) 
+
+
+5) Smart contract in Hyperledger Fabric refers to _________.
+
+A) Chaincode
+B) DAOs
+C) Application Logic contracts
+
+
+
