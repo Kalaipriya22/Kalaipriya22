@@ -1,0 +1,29 @@
+Collaborates with Project stakeholders and business owners to identify the scope of the project.
+Conducts requirement gathering sessions on a consistent basis via use cases, workflow storyboards, end-user scenarios, etc.
+Understands the business value and conveys the requirement to the development team through User stories.
+Continuously engage with Product Owner to constantly groom and prioritize epics and user stories.  
+Review design documentation with QA and Development teams and be the POC for any clarifications during development and testing.
+Responsible for Conducting peer reviews of the business requirements to ensure that requirement specifications are correctly interpreted.
+Responsible for communicating changes, enhancements, and modifications to requirements promptly and concisely to the development team.
+Should be able to handle the Onshore/Offshore model by constantly communicating with onshore stakeholders.
+Participate in the test case review process to ensure all requirements are accounted for before going into production.
+Work with stakeholders to identify ROI and KPIs before and after product development.
+Qualifications:
+
+Minimum 3+ years of experience in the healthcare domain with knowledge of Payer, Provider, and Claims.
+Minimum 5+ years of experience as a Business Analyst which includes requirement gathering, and liaison between business, end user, and technical team.
+Excellent interpersonal and communication skills.
+At least 3 years of product development experience in an Agile delivery model.
+Skills Required:
+
+Agile certification internal or external and exposure to agile-based product development will be a huge advantage.
+Basic understating of AI product development methodology and relevant skills including Machine Learning and NLP.
+Basic understanding of data analytics and interpretation of various types of data.
+Ability to query SQL and NO SQL databases.
+Experience in reporting and dashboard development (Tableau, PowerBI)
+Job Posting End Date:
+
+2023-05-19
+Job Type:
+
+Full time
